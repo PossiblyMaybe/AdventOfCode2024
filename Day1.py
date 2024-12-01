@@ -1,4 +1,4 @@
-
+# Advent of Code 2024 Day 1
 
 list1 = []
 list2 = []
